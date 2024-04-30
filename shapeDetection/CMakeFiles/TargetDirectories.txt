@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/shapeRecognition/CMakeFiles/detect_shapes.dir
+/home/ubuntu/Desktop/shapeRecognition/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/shapeRecognition/CMakeFiles/rebuild_cache.dir
